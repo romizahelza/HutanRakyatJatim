@@ -5,6 +5,7 @@ Pemetaan dilakukan dengan mengombinasikan band spektral, indeks vegetasi, dan fi
 
 Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
 
+   
 # 🛰️ Klasifikasi Citra (Random Forest)
 ## 🧮 Data yang dibutuhkan
 1. `CDK Wilayah Jawa Timur`
@@ -12,7 +13,8 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
 3. `Titik sampel ground check`
    
 ## 📥 Donwload Data
-- 
+- [CDK Jatim](https://github.com/romizahelza/HutanRakyatJatim/blob/main/CDK_Jatim.zip) 
+- https://drive.google.com/drive/folders/1CFhLbsF5cthu4t89WWbDmp3k4F020Hvu?usp=drive_link
 
 ## ⚙️ Menjalankan Scriptcode
 1. Buka **Code Editor Google Earth Engine**
