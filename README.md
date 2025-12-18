@@ -7,18 +7,29 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
 
    
 # 🛰️ Klasifikasi Citra (Random Forest)
+## Scriptcode
+[Script Code](https://code.earthengine.google.com/17fc28393816964e58b0554938ddb972)
+
 ## 🧮 Data yang dibutuhkan
 1. `CDK Wilayah Jawa Timur`
 2. `Titik sampel` (high, medium, low, potential)
-3. `Titik sampel ground check`
+   > _H, _HB : kerapatan tinggi (high, high2)
+
+   > _M, _MB : kerapatan sedang (med, med2)
+
+   > _L, _LB : kerapatan rendah low, low2)
+
+   > _POT, _POTB : potensial (pot, pot2)
+4. `Titik sampel ground check`
    
 ## 📥 Donwload Data
 - [CDK Jatim](https://github.com/romizahelza/HutanRakyatJatim/raw/refs/heads/main/CDK_Jatim.zip) 
-- https://drive.google.com/drive/folders/1CFhLbsF5cthu4t89WWbDmp3k4F020Hvu?usp=drive_link
-
+- [Titik Sampel Training](https://drive.google.com/drive/folders/1CFhLbsF5cthu4t89WWbDmp3k4F020Hvu?usp=drive_link)
+- [Titik Sampel Groundcheck]()
+  
 ## ⚙️ Menjalankan Scriptcode
 1. Buka **Code Editor Google Earth Engine**
-2. Import `🧮 Data yang dibutuhkan`
+2. Import `🧮 Data yang dibutuhkan` ke dalam Assets GEE
 3. Sesuaikan area kajian dan periode waktu yang diinginkan
 4. Jalankan script dengan klik `Run`
 5. Untuk mengunduh hasilnya, bisa menuju panel `Task` dan klik `Run`
