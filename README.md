@@ -8,7 +8,7 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
    
 # 🛰️ Klasifikasi Citra (Random Forest)
 ## 📌 Scriptcode
-[Script Code](https://code.earthengine.google.com/17fc28393816964e58b0554938ddb972)
+[Script Code](https://code.earthengine.google.com/80e7c09e76c583b914e9fd61d61c8560)
 
 [Contoh Script](https://github.com/romizahelza/HutanRakyatJatim/blob/main/Script_1.js)
 
