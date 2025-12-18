@@ -13,7 +13,7 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
 3. `Titik sampel ground check`
    
 ## 📥 Donwload Data
-- [CDK Jatim](https://github.com/romizahelza/HutanRakyatJatim/blob/main/CDK_Jatim.zip) 
+- [CDK Jatim](https://github.com/romizahelza/HutanRakyatJatim/raw/refs/heads/main/CDK_Jatim.zip) 
 - https://drive.google.com/drive/folders/1CFhLbsF5cthu4t89WWbDmp3k4F020Hvu?usp=drive_link
 
 ## ⚙️ Menjalankan Scriptcode
