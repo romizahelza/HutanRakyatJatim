@@ -7,7 +7,7 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
 
    
 # 🛰️ Klasifikasi Citra (Random Forest)
-## Scriptcode
+## 📌 Scriptcode
 [Script Code](https://code.earthengine.google.com/17fc28393816964e58b0554938ddb972)
 
 ## 🧮 Data yang dibutuhkan
