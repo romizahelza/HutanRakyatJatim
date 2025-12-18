@@ -13,10 +13,13 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
 
 > [Contoh Script](https://github.com/romizahelza/HutanRakyatJatim/blob/main/Script_1.js)
 
+
+
+
 - Script Metode 2
 > [Script Metode 2](https://code.earthengine.google.com/35ada5b3bb6deaa39eb4a6ec9a6dcb96)
 >
-> [Contoh Script]
+> [Contoh Script](https://github.com/romizahelza/HutanRakyatJatim/blob/main/Script_2.js)
 
 ## 🧮 Data yang dibutuhkan
 1. `CDK Wilayah Jawa Timur`
