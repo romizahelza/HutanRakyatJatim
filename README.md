@@ -8,8 +8,15 @@ Dapat dibuka dan dijalankan di https://code.earthengine.google.com/
    
 # 🛰️ Klasifikasi Citra (Random Forest)
 ## 📌 Scriptcode
-> [Script Code](https://code.earthengine.google.com/80e7c09e76c583b914e9fd61d61c8560)
+- Script Metode 1
+> [Script Metode 1](https://code.earthengine.google.com/80e7c09e76c583b914e9fd61d61c8560)
+
 > [Contoh Script](https://github.com/romizahelza/HutanRakyatJatim/blob/main/Script_1.js)
+
+- Script Metode 2
+> [Script Metode 2](https://code.earthengine.google.com/35ada5b3bb6deaa39eb4a6ec9a6dcb96)
+>
+> [Contoh Script]
 
 ## 🧮 Data yang dibutuhkan
 1. `CDK Wilayah Jawa Timur`
